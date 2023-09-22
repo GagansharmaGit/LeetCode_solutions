@@ -17,7 +17,7 @@ public:
         if(n == 1) return {new TreeNode(0)};
         if(mp.find(n) != mp.end()) return mp[n];
         vector<TreeNode*>ans;
-        for(int i=1;i<n;i+=2){
+        for(int i=1;i<n;i++){
             vector<TreeNode*> left_full_b_tree =solve(i);
             vector<TreeNode*> right_full_b_tree = solve(n-i-1);
             for(auto left:left_full_b_tree){
