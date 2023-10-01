@@ -12,7 +12,7 @@ public:
             if(isVowel(s[j])){
                 count++;
             }
-            if(j - i + 1 >= k){
+            if(j - i + 1 == k){
                 ans = max(ans,count);
                 if(isVowel(s[i])){
                     count--;
