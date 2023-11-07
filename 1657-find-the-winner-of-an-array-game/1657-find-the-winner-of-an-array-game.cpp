@@ -13,7 +13,7 @@ public:
             }else{
                 count++;
                 arr.push_back(arr[i]);
-                if(count == k) return winner;
+                // if(count == k) return winner;
             }
             if(count == k) return winner;
             n=arr.size();
