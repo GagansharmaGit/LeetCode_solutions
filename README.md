@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0008-string-to-integer-atoi) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
