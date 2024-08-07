@@ -1,27 +1,29 @@
 class Solution {
 public:
-    int search(vector<int>& nu, int target) {
-        int start=0;
-        int n=nu.size();
-        int end=n-1;
-        while(start<=end){
-            int mid=(start+end)/2;
-            if(nu[mid]==target){
-                return mid;
-            }
-            //is left part sorted?
-            if(nu[start]<=nu[mid]){
-                if(nu[start]<=target and target <=nu[mid]){
-                    end=mid-1;
+    int search(vector<int>& nums, int target) {
+        int start = 0;
+        int end = nums.size()-1;
+
+        while(start <= end){
+            int mid = (start + end) /2;
+            if(nums[mid] == target) return mid;
+            if(nums[start] <= nums[mid]){
+                //means left part is sorted
+                if(nums[start] <= target and target <= nums[mid]){
+                    //means target lies in the left part of the array
+                    end = mid -1;
                 }else{
-                    start=mid+1;
+                    //means target lies int the right part of the array
+                    start = mid +1;
                 }
             }else{
-                //is target present between right part?
-                if(nu[mid]<=target and target <=nu[end]){
-                    start=mid+1;
+                //means right part is sorted
+                if(nums[mid+1] <= target and nums[end] >= target){
+                    //means target lies in the right part of the array
+                    start = mid +1;
                 }else{
-                    end=mid-1;
+                    //means target lies int the left part of the array
+                    end = mid -1;
                 }
             }
         }
