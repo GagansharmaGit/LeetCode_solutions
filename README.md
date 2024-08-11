@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Two Pointers
 |  |
@@ -31,4 +32,12 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0792-binary-search) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
