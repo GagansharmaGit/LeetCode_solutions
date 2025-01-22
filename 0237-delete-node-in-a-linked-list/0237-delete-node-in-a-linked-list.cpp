@@ -11,6 +11,7 @@ public:
 
 
     void deleteNode(ListNode* node) {
+        cout<<"current node value"<<node->val;
          node->val = node->next->val;
         node->next = node->next->next;
     }
