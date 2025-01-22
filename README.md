@@ -8,6 +8,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/2573-remove-nodes-from-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0792-binary-search) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GagansharmaGit/LeetCode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
